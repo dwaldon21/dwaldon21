@@ -11,7 +11,7 @@
 <img align="left" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 
-Here are some ideas to get you started:
+## ⚡About Me
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
