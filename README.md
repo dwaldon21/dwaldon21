@@ -10,7 +10,6 @@ Link to stat theme: https://github.com/anuraghazra/github-readme-stats
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dwaldon21&hide_border=true&theme=radical" />
 </p>
 
-
 <img align="left" alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
 <img align="left" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
