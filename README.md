@@ -6,8 +6,8 @@ Link to stat theme: https://github.com/anuraghazra/github-readme-stats
 # Hi, I'm Dominique 😄
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dwaldon21&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dwaldon21&hide_border=true&theme=radical" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=dwaldon21&show_icons=true&theme=radical" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=dwaldon21&hide_border=true&theme=radical" />
 </p>
 
 <img align="left" alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
