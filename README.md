@@ -3,7 +3,7 @@ Link to badges: https://github.com/Ileriayo/markdown-badges
 Link to stat theme: https://github.com/anuraghazra/github-readme-stats
 -->
 
-# Hi there, I'm Dominique 😄
+# Hi, I'm Dominique 😄
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dwaldon21&show_icons=true&&count_private=true&hide_border=true&theme=radical" />
