@@ -20,11 +20,11 @@ Link to stat theme: https://github.com/anuraghazra/github-readme-stats
 
 ## ⚡About Me
 
-- 🔭 I’m currently working on automating soccer gameplay scoring and player detection
-- 🌱 I’m currently learning about Artifical Intelligence and Machine Learning
+- 🔭 I’m currently working on building secure networks and automating secure infrastructure processes.
+- 🌱 I’m currently learning about Security and Networking.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: dominiquekawaldon@gmail.com
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love to learn new things and strive to learn one new thing a day!
 
